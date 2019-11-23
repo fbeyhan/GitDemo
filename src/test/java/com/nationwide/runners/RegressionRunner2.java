@@ -10,6 +10,8 @@ public class RegressionRunner2 {
         System.out.println("test5");
         System.out.println("test6");
         System.out.println("test4");
+        System.out.println("test9");
+        System.out.println("test10");
 
     }
 
